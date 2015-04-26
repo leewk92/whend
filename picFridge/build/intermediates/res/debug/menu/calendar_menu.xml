@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="오늘" android:id="@+id/menuitem_calendar_0"></item>
+</menu>
+<!-- From: file:/C:/Users/wonkyung/AndroidstudioProjects/PicFridge/picFridge/src/main/res/menu/calendar_menu.xml -->

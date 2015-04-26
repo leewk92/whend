@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+                   android:accountType="com.whend.demo.account.DEMOACCOUNT"
+                   android:icon="@drawable/ic_launcher_new"
+                   android:smallIcon="@drawable/icon_whend_50px"
+                   android:label="@string/my_custom_account"/><!-- From: file:/C:/Users/wonkyung/AndroidstudioProjects/PicFridge/picFridge/src/main/res/xml/authenticator.xml -->

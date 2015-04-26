@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">When.D</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pf00__loading">PF00_Loading</string>
+    <string name="item_expiry">Expiry(yyyymmdd)</string>
+    <string name="app_id">364398547087519</string>
+    <string name="buttonName">3초만에 페이스북 아이디로 로그인하기</string>
+    <string name="follow">월 팔로우</string>
+    <string name="following">캘린더 팔로우</string>
+    <string name="areyou">팔로우 하시겠습니까?</string>
+    <string name="arentyou">언팔로우 하시겠습니까?</string>
+    <string name="add">일정에 추가하시겠습니까?</string>
+    <string name="remove">일정에서 삭제하시겠습니까?</string>
+    <string name="removefeed">이 피드를 보지 않습니다.</string>
+    <string name="incalendar">캘린더에서 빼기</string>
+    <string name="caladd">캘린더에 넣기</string>
+
+    <color name="gray">#f8f8ff</color>
+
+    <string name="my_custom_account">WhendCalendar</string>
+    <string name="activity_title_setup">WhendSetup</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_calendar__sched__add">Calendar_Sched_Add</string>
+
+</resources>
