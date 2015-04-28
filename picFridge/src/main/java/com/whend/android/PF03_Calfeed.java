@@ -97,6 +97,7 @@ public class PF03_Calfeed extends Fragment implements OnRefreshListener{
 /*	public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
 		   //inflater.inflate(R.menu.pf03__itemlog, menu);
 		    ((PF01_Main)getActivity()).setActionBarTitle(" Cal-feed");
+
 		}*/
 
     @Override
