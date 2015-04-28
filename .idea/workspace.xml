@@ -23,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="import-summary.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="import-summary.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/import-summary.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42066422" vertical-offset="0" max-vertical-offset="1805">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1805">
               <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PF03_Calfeed.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/picFridge/src/main/java/com/whend/android/PF03_Calfeed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5387524" vertical-offset="437" max-vertical-offset="13680">
+              <caret line="104" column="105" selection-start-line="104" selection-start-column="105" selection-end-line="104" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -1483,6 +1493,13 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/picFridge/src/main/java/com/whend/android/PF03_Calfeed.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="width" value="1344" />
@@ -1743,7 +1760,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1344" height="728" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1804,8 +1821,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42066422" vertical-offset="0" max-vertical-offset="1805">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1805">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picFridge/src/main/java/com/whend/android/PF03_Calfeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5387524" vertical-offset="437" max-vertical-offset="13680">
+          <caret line="104" column="105" selection-start-line="104" selection-start-column="105" selection-end-line="104" selection-end-column="105" />
           <folding />
         </state>
       </provider>

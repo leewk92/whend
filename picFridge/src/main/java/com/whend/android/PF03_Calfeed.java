@@ -103,7 +103,6 @@ public class PF03_Calfeed extends Fragment implements OnRefreshListener{
     public void onStart(){
         super.onStart();
         GoogleAnalytics.getInstance(this.getView().getContext()).reportActivityStart(this.getActivity());
-
     }
 
     @Override
